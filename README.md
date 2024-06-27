@@ -7,7 +7,8 @@
      <img src="https://img.shields.io/badge/VS-F5F5F5?style=for-the-badge&logo=visualstudio&logoColor=5C2D91"/> <img src="https://img.shields.io/badge/VS Code-F5F5F5?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
      <img src="https://img.shields.io/badge/Git-F5F5F5?style=for-the-badge&logo=git&logoColor=F05032"/>
      <img src="https://img.shields.io/badge/postgresql-F5F5F5?style=for-the-badge&logo=postgresql&logoColor=1965F0"/>
-     <img src="https://img.shields.io/badge/Windows Server-F5F5F5?style=for-the-badge&logo=windows10&logoColor=0078D6"/> <img src="https://img.shields.io/badge/Ubuntu-F5F5F5?style=for-the-badge&logo=ubuntu&logoColor=E95420"/> <img src="https://img.shields.io/badge/Debian-F5F5F5?style=for-the-badge&logo=debian&logoColor=A81D33"/> <img src="https://img.shields.io/badge/Astra-F5F5F5?style=for-the-badge&logo=artixlinux&logoColor=10A0CC"/> </pre>
+     <img src="https://img.shields.io/badge/Windows Server-F5F5F5?style=for-the-badge&logo=windows10&logoColor=0078D6"/>
+     <img src="https://img.shields.io/badge/Ubuntu-F5F5F5?style=for-the-badge&logo=ubuntu&logoColor=E95420"/> <img src="https://img.shields.io/badge/Debian-F5F5F5?style=for-the-badge&logo=debian&logoColor=A81D33"/> <img src="https://img.shields.io/badge/Astra-F5F5F5?style=for-the-badge&logo=artixlinux&logoColor=10A0CC"/> </pre>
 </body>
 </html>
 
